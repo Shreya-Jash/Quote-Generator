@@ -18,5 +18,5 @@ p.then((response) => {  //fetch api is a 2-stage process for which we use two .t
 
 function fetchQuote()
 {
-
+        window.location.reload();
 }
