@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    height: 1024px;
+    width: 1444px;
+    background: radial-gradient(56.18% 111.1% at 50% 50%, #D549B6 0%, rgba(217, 117, 117, 0) 100%);
+}
+
+.header-text{
+    padding-top: 89px;
+    text-align: center;
+    font-family: 'Arizonia', cursive;
+    font-size: 40px;
+}
+
+.button{
+    height: 50px;
+    width: 200px;
+    border-radius: 40px;
+    background: linear-gradient(178.23deg, #FFFFFF 1.5%, #956196 98.51%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border: none;
+}
